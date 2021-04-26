@@ -1,6 +1,6 @@
 # Next.js, React.js, Jest, ChartJS, AG Grid, React testing Library
 
-This is a really simple project that shows the usage of Next.js with ChartJS on top of Jest, Reac and AG grid for table
+This is a really simple project that shows the usage of Next.js with ChartJS on top of Jest, React and AG grid for table
 
 First, run the development server:
 
