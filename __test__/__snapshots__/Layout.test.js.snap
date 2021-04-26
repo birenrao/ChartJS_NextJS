@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Layout function renders Layout unchanged 1`] = `
+<div
+  className="container"
+>
+  <header>
+    <h1>
+      Welcome to Data Visualisation
+    </h1>
+  </header>
+  <main
+    className="main"
+  />
+  <footer>
+    <p>
+      This is intellisense.io
+    </p>
+  </footer>
+</div>
+`;

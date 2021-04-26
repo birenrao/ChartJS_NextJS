@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders DataTable unchanged 1`] = `
+<div
+  className="ag-theme-alpine"
+  style={
+    Object {
+      "height": 400,
+      "width": 500,
+    }
+  }
+>
+  <AgGridReact
+    columnDefs={
+      Array [
+        Object {
+          "field": "times",
+          "headerName": "Metric",
+        },
+        Object {
+          "field": "values",
+          "headerNAme": "Values",
+        },
+      ]
+    }
+    disableStaticMarkup={false}
+    legacyComponentRendering={false}
+    maxComponentCreationTimeMs={1000}
+    rowData={Array []}
+    suppressColumnVirtualisation={true}
+  />
+</div>
+`;
