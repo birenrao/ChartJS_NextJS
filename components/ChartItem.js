@@ -65,6 +65,9 @@ const ChartItem = ({ tableData }) => {
   return (
     <div style={{ width: 600, height: 400 }}>
       <Line id="myChart" data={processedData} options={chartOption} />
+      <p>
+        on Click of Label on top you can hide that data from chart
+      </p>
     </div>
   );
 };
